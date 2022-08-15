@@ -9,4 +9,4 @@ Varios programas y archivos en Pascal
 
 * Programación estructurada: https://emiliodevesa.wordpress.com/2010/02/13/programacion-estructurada-en-pascal/
 
-
+* Arrays y Registros: https://emiliodevesa.wordpress.com/2010/02/23/estructurando-la-informacion-en-pascal-arrays-registros/
