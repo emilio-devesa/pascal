@@ -13,3 +13,5 @@ Varios programas y archivos en Pascal
 
 * Abrir ficheros en GNU Pascal: https://emiliodevesa.wordpress.com/2010/05/18/abrir-archivos-en-pascal-gpc-fpc/
 
+* Abrir ficheros en Free Pascal: https://emiliodevesa.wordpress.com/2010/05/18/abrir-archivos-en-pascal-gpc-fpc/
+
