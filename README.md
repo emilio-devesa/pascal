@@ -10,3 +10,6 @@ Varios programas y archivos en Pascal
 * Programación estructurada: https://emiliodevesa.wordpress.com/2010/02/13/programacion-estructurada-en-pascal/
 
 * Arrays y Registros: https://emiliodevesa.wordpress.com/2010/02/23/estructurando-la-informacion-en-pascal-arrays-registros/
+
+* Abrir ficheros en GNU Pascal: https://emiliodevesa.wordpress.com/2010/05/18/abrir-archivos-en-pascal-gpc-fpc/
+
