@@ -1,4 +1,4 @@
-program minimo_ejemplo (input, output);
+program countdown (input, output);
 { En este ejemplo implementaremos una cuenta atrás que puede definir el usuario }
 
 { Todavia no vamos a usar esto, lo haremos si usamos modulos. Por eso queda entre comentarios }
